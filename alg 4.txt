@@ -1,0 +1,8 @@
+step 1: enter the employee salary
+step 2: read the shopping bill 1
+step 3: read the shopping bill 2
+step 4: read the shopping bill 3 
+step 5: add the three bills (bill1+bill2+bill3) and store it in tbill
+step 6: compute the percent (tbill*100)/salary
+step 7: display total bill
+step 8: display percent
