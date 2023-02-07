@@ -1,0 +1,6 @@
+step1 : enter first num1
+step2 : enter second num2
+step3 : add both the numbers and store in total=(num1+num2)
+step4 : average= total/2
+step5 : display total
+step6 : display average
