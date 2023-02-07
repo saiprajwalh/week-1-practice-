@@ -1,0 +1,4 @@
+step 1: read number1
+step 2: read number2
+step 3: add number1 and number 2 (number1+number2) and store in total
+step 4: display total
