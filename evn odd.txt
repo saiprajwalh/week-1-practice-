@@ -1,0 +1,18 @@
+begin
+number num1
+print("enter a number to check whether it is even,odd or zero")
+input num1
+
+if(num1=0)
+{
+print("entered number is zero")
+}
+else if(num1%2=0)
+{
+print("number is even")
+}
+else
+{
+print("number is odd")
+}
+end
