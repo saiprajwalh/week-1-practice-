@@ -1,0 +1,20 @@
+begin
+
+number num1,num2,add,sub,div,mul
+print("enter first number ")
+input num1
+print("enter second number")
+input num2
+
+add=num1+num2
+sub=num1-num2
+div=num1/num2
+mul=num1*num2
+
+print("addition",add)
+print("subtraction",sub)
+print("division",div)
+print("multiplication",mul)
+
+end
+Footer
