@@ -1,0 +1,24 @@
+begin
+string name, email, college, city
+number student_marks, number
+print ("enter student name")
+input name
+print ("Enter email")
+input email
+print ("enter college name")
+input college
+print ("enter city name")
+input city
+print ("enter student marks")
+input student_marks
+print ("enter number")
+input number
+
+print ("student name", name)
+print ("student mail", email)
+print ("college name", college)
+print ("city name", city)
+print ("student marks", student_marks)
+print ("student number", number)
+
+end
