@@ -1,0 +1,39 @@
+begin
+number proj, int, ext, tot
+print("enter project,internal,external scores")
+input proj
+input int
+input ext
+
+if(proj>=50 && int>=50 && ext>=50)
+{
+tot=(proj*70)/100+ (int*10)/100+ (ext*20)/100
+}
+if(tot>=90)
+{
+print("grade A")
+}
+else if(tot>=70)
+{
+print("grade B")
+}
+else if(tot>=50)
+{
+print("grade c"
+}
+
+else
+{
+if(proj<50)'
+{
+print("failed in project",proj)
+}
+else if(int<50)
+{
+print("failed in internal",int)
+}
+else if(ext<50)
+{
+print("failed in external",ext)
+}
+end
