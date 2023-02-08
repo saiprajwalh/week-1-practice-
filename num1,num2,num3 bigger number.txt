@@ -1,0 +1,22 @@
+begin
+number num1, num2, num3
+print("enter first number ")
+input num1
+print("enter second number")
+input num2
+print("enter third number")
+input num3
+
+if (num1>num2 && num1>num3)
+{
+print("num1 is bigger",num1)
+}
+else if(num2>num3)
+{
+print("num2 is bigger",num2)
+}
+else
+{
+print("num3 is bigger",num3)
+}
+end
