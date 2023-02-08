@@ -1,0 +1,18 @@
+begin
+input num1
+print ("enter a number")
+input num1
+
+if(num1>0)
+{
+print("number is +ve",num1)
+}
+else if(num1<0)
+{
+print("number is -ve",num1)
+}
+else
+{
+print("number is zero")
+}
+end
